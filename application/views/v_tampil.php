@@ -33,5 +33,3 @@
     <?php } ?>
 </table>
 </body>
-
-</html>
